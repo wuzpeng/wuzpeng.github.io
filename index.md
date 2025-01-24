@@ -17,11 +17,11 @@ I'm currently a second year master student at University of Science and Technolo
 ---
 
 ## News
-- **January 2025：** One paper [DisPose](https://lihxxx.github.io/DisPose/) gets accepted to <font color='red'>ICLR2025</font>.
+- **January 2025：** One paper [XXX](https://lihxxx.github.io/DisPose/) gets accepted to <font color='red'>ICLR2025</font>.
 <br>
 
 ## Internships
-- 2024.09-Now: Shanghai AI Lab, China
+- XXX
 
 <br>
 
