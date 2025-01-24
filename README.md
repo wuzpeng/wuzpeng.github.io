@@ -4,7 +4,7 @@ Here is my personal website, you could contact me by email: zipengwu@mail.ustc.e
 
 ## Update and News
 
-- **[News:] ___**
+- **[News:] None**
 
 <!-- ## Star History
 
